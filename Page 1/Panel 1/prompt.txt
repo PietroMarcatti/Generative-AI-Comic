@@ -1,0 +1,40 @@
+Seed: 12345
+
+Main: Black and white comic in the style of western comics. Simple scene. Scene is set in a bright, modern office space filled with desks and computers.
+
+Negative:
+
+Style: Comic
+
+Aspect Ratio: 12:5
+
+Guidance Scale: 7
+
+
+-----------------------
+
+Seed: 12345
+
+Main: Black and white comic in the style of western comics. Simple mug-shot of a white man <Chris Evans 0.5, John Krasinski 0.5> with a smile. Wearing a white shirt and a black tie. White empty background
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit
+
+Style: Comic
+
+Aspect Ratio: 1:1
+
+Guidance Scale: 7
+
+----------------------
+
+Seed: 12345
+
+Main: Black and white comic in the style of western comics. Simple mug-shot of a woman <Saoirse Ronan 0.5> with a smile. Wearing a white shirt and a black tie. Empty background
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, paintings
+
+Style: Comic
+
+Aspect Ratio: 1:1
+
+Guidance Scale: 7

@@ -1,0 +1,11 @@
+Seed: Random
+
+Main: Black and white comic in the style of western comics. 1man (<Jeff Bridges 0.5> black suit) is exiting a conference room. He's at the door. Scene is set in a bright, modern office space.
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 7:4
+
+Guidance Scale: 7

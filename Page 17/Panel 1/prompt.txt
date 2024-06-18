@@ -1,0 +1,12 @@
+Seed: Random
+
+Main: Black and white comic in the style of western comics. Multiple office workers are crammed at their desks typing at their computers. They are using desktops. The setting is a dark storage room in a run-down office space
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 1:1
+
+Guidance Scale: 7
+

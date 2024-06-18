@@ -1,0 +1,11 @@
+Seed: 12345
+
+Main: Black and white comic in the style of western comics. 1man (<Jeff Bridges 0.5>, black suit) and 2man (<Benedict Cumberbatch 0.5>, black suit) are presenting while standing in front of the office workforce. Many people are present. Scene is set in a bright, modern conference room.
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 1:1
+
+Guidance Scale: 7

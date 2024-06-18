@@ -1,0 +1,12 @@
+Seed: Random
+
+Main: Black and white comic in the style of western comics. 1woman (<Saoirse Ronan 0.5> young, blond hair, wearing a white shirt and black tie) is peeping over the corner of the corridor, she has her back at the wall, she's alert and her face is tense
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 7:4
+
+Guidance Scale: 7
+

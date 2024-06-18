@@ -1,0 +1,11 @@
+Seed: 12345
+
+Main: Black and white comic in the style of western comics. Scene is set in a bright, modern office space. 1man (<Chris Evans 0.5, John Krasinski 0.5> wearing a white shirt and black ties) talking to 1woman (<Saoirse Ronan 0.5> young, blond hair, wearing a white shirt and black tie)
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks
+
+Style: Comic
+
+Aspect Ratio: 19:13
+
+Guidance Scale: 7

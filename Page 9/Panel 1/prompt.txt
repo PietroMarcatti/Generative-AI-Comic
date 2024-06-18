@@ -1,0 +1,11 @@
+Seed: Random
+
+Main: Black and white comic in the style of western comics. Scene is set in a bright, modern office space. Two people: 1woman (<Saoirse Ronan 0.5> young, blond hair, wearing a white shirt and black tie) is taking a coffee with 1man (<Chris Evans 0.5, John Krasinski 0.5> wearing a white shirt and black ties) they are grabbing a coffe in the breakroom
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 19:13
+
+Guidance Scale: 8

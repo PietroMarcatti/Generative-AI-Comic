@@ -1,0 +1,11 @@
+Seed: 12345
+
+Main: Black and white comic in the style of western comics. Scene is set in a bright, modern office space. A close-up of the white screen on a gray laptop sitting on the desk
+
+Negative:
+
+Style: Comic
+
+Aspect Ratio: 12:5
+
+Guidance Scale: 7

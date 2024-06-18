@@ -1,0 +1,11 @@
+Seed: Random
+
+Main: Black and white comic in the style of western comics. 1man (<Chris Evans 0.5, John Krasinski 0.5> wearing a white shirt and black tie, showing his back) is entering a door in a run-down corridor of an office space.
+
+Negative: ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 1:1
+
+Guidance Scale: 7

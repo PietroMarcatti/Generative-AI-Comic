@@ -1,0 +1,13 @@
+Seed: Random
+
+Main: Black and white comic in the style of western comics. 1woman (<Saoirse Ronan 0.5> young, blond hair, wearing a white shirt and black tie) is walking in a dark corridor while looking around. She is looking at the walls. Her head is showing her profile. The corridor has some cleaning tools and is quite derelict
+
+Negative: camera stare, stare, ugly, glasses, sunglasses, beard, straps, overalls, jacket, suit, vest, muscles, bodybuilder, ponytail, papillon, notebooks, water color
+
+Style: Comic
+
+Aspect Ratio: 7:4
+
+Guidance Scale: 7
+
+
